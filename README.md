@@ -3,9 +3,9 @@
 An interactive Streamlit demonstration of an **agentic AI workflow for pharmacovigilance (PV) case processing**. A team of specialized AI agents works a single safety signal through a shared case state, with a human PV reviewer in control at the decision point.
 
 >
-> - **Product names** are **made up**
+> - Dummy **Product names**
 > - **Patients, reporters, messages, and case histories** are **invented** for the demo.
-> - There is **no real patient, customer, or proprietary data** anywhere in this project.
+> - There is **no real patient, customer, or proprietary data** used in this project.
 >
 > Outputs are illustrative only and require qualified pharmacovigilance review before any operational or regulatory use.
 
