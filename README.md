@@ -2,11 +2,8 @@
 
 An interactive Streamlit demonstration of an **agentic AI workflow for pharmacovigilance (PV) case processing**. A team of specialized AI agents works a single safety signal through a shared case state, with a human PV reviewer in control at the decision point.
 
-> ## ⚠️ This is a demo with dummy data — nothing here is real
 >
-> Everything in this app is **synthetic and fictional**, created purely to illustrate the workflow:
->
-> - **Product names** (`Cardvexa`, `Neuroxil`, `Respivance`) are **made up** — they are not real medicines.
+> - **Product names** are **made up**
 > - **Patients, reporters, messages, and case histories** are **invented** for the demo.
 > - There is **no real patient, customer, or proprietary data** anywhere in this project.
 >
